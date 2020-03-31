@@ -1,0 +1,1 @@
+{"errorType":"Runtime.ExitError","errorMessage":"RequestId: 6eb27be9-e1b3-49fb-8bad-6e99822f1405 Error: &{0xc000092240 map[invoke_id:6eb27be9-e1b3-49fb-8bad-6e99822f1405 sandbox_id:0] 2020-01-31 10:10:43.136524607 +0000 UTC m=+0.098076959 panic <nil> Runtime failed to start: fork/exec /var/task/bootstrap: exec format error <nil> }"}
